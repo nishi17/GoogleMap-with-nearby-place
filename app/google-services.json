@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361548816188",
+    "firebase_url": "https://nodal-figure-258714.firebaseio.com",
+    "project_id": "nodal-figure-258714",
+    "storage_bucket": "nodal-figure-258714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361548816188:android:898454cca1bbd6f7c5c839",
+        "android_client_info": {
+          "package_name": "com.example.googlemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361548816188-q748s0d5i5um8st1phm3f7kkraq7ce5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlemap",
+            "certificate_hash": "8609a5bd156f2fe2d3be5a53693066ab2ef72ead"
+          }
+        },
+        {
+          "client_id": "361548816188-6ib7mdhcnok4v9dgnncjtc4top17tkso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWXw4eiJbqKZ0D6zCpWnND8kcSve30u_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361548816188-6ib7mdhcnok4v9dgnncjtc4top17tkso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
